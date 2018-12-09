@@ -14,6 +14,8 @@ namespace CourseProject.Domain.Entities
 
         public string Content { get; set; }
 
+        public string HtmlContent { get; set; }
+
         public virtual ICollection<Pattern> Patterns { get; set; }
     }
 }
