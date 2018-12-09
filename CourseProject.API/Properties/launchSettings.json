@@ -20,7 +20,7 @@
     "CourseProject.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/values",
+      "launchUrl": "api/glossary?SearchString=test",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
